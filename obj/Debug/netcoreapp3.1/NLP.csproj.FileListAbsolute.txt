@@ -1,0 +1,11 @@
+C:\PROJECTS\CUSTOM\NLP\NLP\obj\Debug\netcoreapp3.1\NLP.csprojAssemblyReference.cache
+C:\PROJECTS\CUSTOM\NLP\NLP\obj\Debug\netcoreapp3.1\NLP.AssemblyInfoInputs.cache
+C:\PROJECTS\CUSTOM\NLP\NLP\obj\Debug\netcoreapp3.1\NLP.AssemblyInfo.cs
+C:\PROJECTS\CUSTOM\NLP\NLP\bin\Debug\netcoreapp3.1\NLP.exe
+C:\PROJECTS\CUSTOM\NLP\NLP\bin\Debug\netcoreapp3.1\NLP.deps.json
+C:\PROJECTS\CUSTOM\NLP\NLP\bin\Debug\netcoreapp3.1\NLP.runtimeconfig.json
+C:\PROJECTS\CUSTOM\NLP\NLP\bin\Debug\netcoreapp3.1\NLP.runtimeconfig.dev.json
+C:\PROJECTS\CUSTOM\NLP\NLP\bin\Debug\netcoreapp3.1\NLP.dll
+C:\PROJECTS\CUSTOM\NLP\NLP\bin\Debug\netcoreapp3.1\NLP.pdb
+C:\PROJECTS\CUSTOM\NLP\NLP\obj\Debug\netcoreapp3.1\NLP.dll
+C:\PROJECTS\CUSTOM\NLP\NLP\obj\Debug\netcoreapp3.1\NLP.pdb
